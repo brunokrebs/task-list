@@ -17,10 +17,14 @@
     "@angular/core": "^2.3.1",
     "@angular/forms": "^2.3.1",
     "@angular/http": "^2.3.1",
+    "@angular/material": "^2.0.0-beta.1",
     "@angular/platform-browser": "^2.3.1",
     "@angular/platform-browser-dynamic": "^2.3.1",
     "@angular/router": "^3.3.1",
+    "angular2-jwt": "^0.1.28",
+    "auth0-lock": "^10.11.0",
     "core-js": "^2.4.1",
+    "ng2-slim-loading-bar": "^2.4.0",
     "rxjs": "^5.0.1",
     "ts-helpers": "^1.1.1",
     "zone.js": "^0.7.2"
@@ -28,6 +32,7 @@
   "devDependencies": {
     "@angular/cli": "1.0.0-beta.30",
     "@angular/compiler-cli": "^2.3.1",
+    "@types/auth0-lock": "^10.9.2",
     "@types/jasmine": "2.5.38",
     "@types/node": "^6.0.42",
     "codelyzer": "~2.0.0-beta.1",
